@@ -29,8 +29,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/7sIxWFX.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-NOTE: I'm not sure what to enter for the video title, width, and alt fields, but I have entered the correct link.
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
